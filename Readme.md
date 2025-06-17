@@ -24,7 +24,7 @@ A complete quiz application with login-only admin mode, quiz creation, guest par
 
 ```bash
 git clone https://github.com/rags7505/Quiz.git
-cd mern-quiz-app
+cd Quiz
 ```
 
 ### 2. 🐳 Start Redis with Docker
