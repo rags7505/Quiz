@@ -23,7 +23,7 @@ A complete quiz application with login-only admin mode, quiz creation, guest par
 ### 1. 📥 Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-quiz-app.git
+git clone https://github.com/rags7505/Quiz.git
 cd mern-quiz-app
 ```
 
