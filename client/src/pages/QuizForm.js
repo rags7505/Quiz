@@ -22,7 +22,8 @@ useEffect(() => {
     navigate('/');
   }
   if (id) API.get(`/quizzes/${id}`).then(res => setQuiz(res.data));
-}, [id]);
+}, [id, navigate]);
+
 
 
   const handleChange = (e) => setQuiz({ ...quiz, [e.target.name]: e.target.value });
